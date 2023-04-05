@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Coffee",
+            "image": "coffee.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Tea",
+            "image": "tea.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Smoothie",
+            "image": "smoothie.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Pastry",
+            "image": "pastry.jpg"
+        }
+    ]
+}

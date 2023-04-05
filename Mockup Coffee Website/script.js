@@ -4,7 +4,6 @@ window.addEventListener('scroll', function() {
     var header = document.querySelector('header');
     header.classList.toggle('sticky', window.scrollY > 0);
   });
-  
 
 
 // smooth scroll to the menu section when button clicked

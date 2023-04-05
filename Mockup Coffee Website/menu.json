@@ -3,22 +3,22 @@
         {
             "id": "1",
             "name": "Coffee",
-            "image": "coffee.jpg"
+            "image": "Gallery 1"
         },
         {
             "id": "2",
             "name": "Tea",
-            "image": "tea.jpg"
+            "image": "Gallery 2"
         },
         {
             "id": "3",
             "name": "Smoothie",
-            "image": "smoothie.jpg"
+            "image": "Gallery 3"
         },
         {
             "id": "4",
             "name": "Pastry",
-            "image": "pastry.jpg"
+            "image": "Gallery 4"
         }
     ]
 }

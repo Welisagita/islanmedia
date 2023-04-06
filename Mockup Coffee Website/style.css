@@ -1,9 +1,14 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: Arial, sans-serif;
+	font-family: 'Custom Font', sans-serif;
 }
-
+@font-face {
+  font-family: 'Custom Font';
+  src: url('assets/Crimson_Text/CrimsonText-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 header {
 	background-color: rgba(0, 0, 0, 0.300);
 	color: #fff;
